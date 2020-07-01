@@ -1,5 +1,5 @@
 # production-log-plugin
-console.log in production by webpack4
+console.log in production by webpack4 without sourcemap
 
 ## example
 
@@ -27,4 +27,8 @@ module.exports.asd = 1
 ```
 
 ### output
+- show filename
+- show code line
+- show param each row
+- show variable tip on the left
 ![image](https://github.com/ouqinglai/production-log-plugin/blob/master/screenshot/image1.png)
