@@ -1,8 +1,9 @@
 # production-log-plugin
 console.log in production by webpack4
 
-##example
-###input
+## example
+
+### input
 ```index.js
 
 const asd = require('./test.js')
@@ -24,5 +25,5 @@ module.exports = function (){
 module.exports.asd = 1
 ```
 
-###output
-![image](files/Users/jzhang/Desktop/Isolated.png)
+### output
+![image](https://github.com/ouqinglai/production-log-plugin/blob/master/screenshot/image1.png)
